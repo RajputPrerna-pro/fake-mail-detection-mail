@@ -31,9 +31,3 @@ AI MailGuard is a Machine Learning based web application that detects whether an
 - `combined_data.csv` - Dataset
 - `README.md` - Project documentation
 
-## ▶️ How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/RajputPrerna-pro/fake-mail-detection-mail.git
